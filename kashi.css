@@ -1,0 +1,122 @@
+body {
+    background-color: black;
+    /*margin: auto;*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: white; }
+  
+  .romajititle {
+    font-size: 20pt;
+    font-weight: bold;
+    display: block;
+    text-align: center; }
+  
+  .kanatitle {
+    font-size: 25pt;
+    font-weight: bold;
+    display: block;
+    text-align: center; }
+  
+  .transtitle {
+    font-size: 15pt;
+    display: block;
+    text-align: center; }
+  
+  .englishtitle {
+    font-size: 12pt;
+    display: block;
+    text-align: center; }
+  
+  .artist {
+    font-weight: bold;
+    font-style: italic;
+    display: block;
+    text-align: center; }
+  
+  td {
+    font-size: 10pt; }
+  
+  a {
+    color: #6CF; }
+  
+  a:visited {
+    color: #CCF; }
+  
+  a:active {
+    color: #F39; }
+  
+  pre {
+    font-family: Arial, Helvetica, sans-serif; }
+  
+  #header table {
+      border: 0;
+      width:100%;
+      padding-top:0;}
+  
+  #credits table {
+      width:400px;
+      text-align:center;
+      margin-left:auto;
+      margin-right:auto;}
+  
+  #artist td {
+    text-align: center;
+    font-size: 7.5pt; }
+  
+  #info td {
+    text-align: center;
+    font-size: 8pt; }
+  
+  .thead td {
+    font-weight: bold;
+    text-decoration: underline; }
+  
+  .other {
+    color: #808080; }
+
+.small-table {
+    width: 40%; /* 表格宽度设置为40% */
+    margin-top: 20px; /* 表格与上方内容的间距 */
+    margin-bottom: 30px; /* 表格与下方内容的间距 */
+    float: right; /* 右浮动 */
+}
+    
+.small-table td {
+    width: 33.33%; /* 每个单元格占表格宽度的1/3 */
+    text-align: center; /* 单元格内容居中 */
+    font-size: 1.5em; /* 增加字体大小 */
+}
+    
+.right-cell {
+    vertical-align: top; /* 右侧单元格顶部对齐 */
+}
+    
+.right-text {
+    white-space: pre-wrap; /* 保持空格和换行 */
+       font-family: inherit; /* 继承父元素的字体 */
+}
+    
+  
+  /*** μ's ***/
+.honoka {color: #f38500;}
+.kke {color: #7aeeff;}
+.nico {color: #ff4f91;}
+.maki {color: #ff503e;}
+.kotori {color: #cebfbf;}
+.umi {color: #1769ff;}
+.rin {color: #fff832;}
+.nozomi {color: #c455f6;}
+.hanayo {color: #6ae673;}
+
+  /*** Liella! ***/
+.kanon {color: #ff7f27;}
+.kuku {color: #a0fff9;}
+.nako {color: #ff6e90;}
+.sumire {color: #74f466;}
+.ren {color: #0000a0;}
+.kinako {color: #fff442;}
+.shiki {color: #b2ffdd;}
+.mei {color: #ff3535;}
+.natsumi {color: #ff51c4;}
+.vn {color: #e49dfd;}
+.hana {color: #4cd2e2;}
