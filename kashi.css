@@ -1,103 +1,103 @@
 body {
-    background-color: black;
-    /*margin: auto;*/
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
-    color: white; }
-  
-  .romajititle {
-    font-size: 20pt;
-    font-weight: bold;
-    display: block;
-    text-align: center; }
-  
-  .kanatitle {
-    font-size: 25pt;
-    font-weight: bold;
-    display: block;
-    text-align: center; }
-  
-  .transtitle {
-    font-size: 15pt;
-    display: block;
-    text-align: center; }
-  
-  .englishtitle {
-    font-size: 12pt;
-    display: block;
-    text-align: center; }
-  
-  .artist {
-    font-weight: bold;
-    font-style: italic;
-    display: block;
-    text-align: center; }
-  
-  td {
-    font-size: 10pt; }
-  
-  a {
-    color: #6CF; }
-  
-  a:visited {
-    color: #CCF; }
-  
-  a:active {
-    color: #F39; }
-  
-  pre {
-    font-family: Arial, Helvetica, sans-serif; }
-  
-  #header table {
-      border: 0;
-      width:100%;
-      padding-top:0;}
-  
-  #credits table {
-      width:400px;
-      text-align:center;
-      margin-left:auto;
-      margin-right:auto;}
-  
-  #artist td {
-    text-align: center;
-    font-size: 7.5pt; }
-  
-  #info td {
-    text-align: center;
-    font-size: 8pt; }
-  
-  .thead td {
-    font-weight: bold;
-    text-decoration: underline; }
-  
-  .other {
-    color: #808080; }
+  background-color: black;
+  /*margin: auto;*/
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: white; }
+
+.romajititle {
+  font-size: 20pt;
+  font-weight: bold;
+  display: block;
+  text-align: center; }
+
+.kanatitle {
+  font-size: 25pt;
+  font-weight: bold;
+  display: block;
+  text-align: center; }
+
+.transtitle {
+  font-size: 15pt;
+  display: block;
+  text-align: center; }
+
+.englishtitle {
+  font-size: 12pt;
+  display: block;
+  text-align: center; }
+
+.artist {
+  font-weight: bold;
+  font-style: italic;
+  display: block;
+  text-align: center; }
+
+td {
+  font-size: 10pt; }
+
+a {
+  color: #6CF; }
+
+a:visited {
+  color: #CCF; }
+
+a:active {
+  color: #F39; }
+
+pre {
+  font-family: Arial, Helvetica, sans-serif; }
+
+#header table {
+    border: 0;
+    width:100%;
+    padding-top:0;}
+
+#credits table {
+    width:400px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;}
+
+#artist td {
+  text-align: center;
+  font-size: 7.5pt; }
+
+#info td {
+  text-align: center;
+  font-size: 8pt; }
+
+.thead td {
+  font-weight: bold;
+  text-decoration: underline; }
+
+.other {
+  color: #808080; }
 
 .small-table {
-    width: 25%; /* 表格宽度设置为40% */
-    margin-top: 5px; /* 表格与上方内容的间距 */
-    margin-bottom: 20px; /* 表格与下方内容的间距 */
-    float: right; /* 右浮动 */
+  width: 25%; /* 表格宽度设置为40% */
+  margin-top: 5px; /* 表格与上方内容的间距 */
+  margin-bottom: 20px; /* 表格与下方内容的间距 */
+  float: right; /* 右浮动 */
 }
-    
-.small-table td {
-    width: 25%; /* 每个单元格占表格宽度的1/3 */
-    text-align: center; /* 单元格内容居中 */
-    font-size: 1.2em; /* 增加字体大小 */
-}
-    
-.right-cell {
-    vertical-align: top; /* 右侧单元格顶部对齐 */
-}
-    
-.right-text {
-    white-space: pre-wrap; /* 保持空格和换行 */
-       font-family: inherit; /* 继承父元素的字体 */
-}
-    
   
-  /*** μ's ***/
+.small-table td {
+  width: 25%; /* 每个单元格占表格宽度的1/3 */
+  text-align: center; /* 单元格内容居中 */
+  font-size: 1.2em; /* 增加字体大小 */
+}
+  
+.right-cell {
+  vertical-align: top; /* 右侧单元格顶部对齐 */
+}
+  
+.right-text {
+  white-space: pre-wrap; /* 保持空格和换行 */
+     font-family: inherit; /* 继承父元素的字体 */
+}
+  
+
+/*** μ's ***/
 .honoka {color: #f38500;}
 .kke {color: #7aeeff;}
 .nico {color: #ff4f91;}
@@ -107,19 +107,21 @@ body {
 .rin {color: #fff832;}
 .nozomi {color: #c455f6;}
 .hanayo {color: #6ae673;}
+.miusu {color: #E4007F}
 
-  /*** Aqours ***/
-  .chika {color: #FF791B;}
-  .riko {color: #FF7777;}
-  .sww {color: #00D29E;}
-  .dia {color: #F43232;}
-  .you {color: #2AA4DB;}
-  .yohane {color: #AEAEAE;}
-  .zura {color: #CFBA0F;}
-  .mari {color: #A530E0;}
-  .rubi {color: #EE55B7;}
+/*** Aqours ***/
+.chika {color: #FF791B;}
+.riko {color: #FF7777;}
+.sww {color: #00D29E;}
+.dia {color: #F43232;}
+.you {color: #2AA4DB;}
+.yohane {color: #AEAEAE;}
+.zura {color: #CFBA0F;}
+.mari {color: #A530E0;}
+.rubi {color: #EE55B7;}
+.Aqours {color: #00A1E9}
 
-   /*** Liella! ***/
+ /*** Liella! ***/
 .kanon {color: #ff7f27;}
 .kuku {color: #6ffff5;}
 .nako {color: #ff6e90;}
@@ -131,16 +133,48 @@ body {
 .natsumi {color: #ff51c4;}
 .vn {color: #e49dfd;}
 .hana {color: #44cbda;}
+.Liella {color: #A5469B}
 
  /*** Nijigasaki ***/
-  
-    /*** Hasunosora ***/
-  .kaho {color: #F8B500;}
-  .sayaka {color: #5383C3;}
-  .kozue {color: #68BE8D;}
-  .tsuzuri {color: #BA2636;}
-  .rurino {color: #E7609E;}
-  .megumi {color: #C8C2C6;}
-  .ginko {color: #A2D7DD;}
-  .kosuzu {color: #FAD764;}
-  .hime {color: #9D8DE2;}
+.ayumu {color: #ED7D95}
+.kasumi {color: #E7D600}
+.shizuku {color: #01B7ED}
+.karin {color: #485EC6}
+.ai {color: #FF5800}
+.kanata {color: #A664A0}
+.setsuna {color: #D81C2F}
+.emma {color: #84C36E}
+.rina {color: #9CA5B9}
+.shioriko {color: #37B484}
+.mia {color: #A9A898}
+.lanzhu {color: #F69992}
+.Nijigaku {color: #F39800}
+
+  /*** Hasunosora ***/
+.kaho {color: #F8B500;}
+.sayaka {color: #5383C3;}
+.kozue {color: #68BE8D;}
+.tsuzuri {color: #BA2636;}
+.rurino {color: #E7609E;}
+.megumi {color: #C8C2C6;}
+.ginko {color: #A2D7DD;}
+.kosuzu {color: #FAD764;}
+.hime {color: #9D8DE2;}
+.Hasunosora {color: #BE1400}
+
+  /*** Ongaku ***/
+.musical-rurika {color: #73B8E2}
+.musical-yuzuha {color: #EFEFEF}
+.musical-yukino {color: #F58220}
+.musical-hikaru {color: #3C6854}
+.musical-maya {color: #E48898}
+.musical-anzu {color: #D81F35}
+.musical-misuzu {color: #004C71}
+.musical-toa {color: #FF8C90}
+.musical-rena {color: #ABC900}
+.musical-sayaka {color: #E6D33B}
+.musical-madoka {color: #34582C}
+.musical-kyoka {color: #AC3040}
+.musical {color: #C40035}
+.musical1 {color: #507363}
+.musical2 {color: #6F1318}
