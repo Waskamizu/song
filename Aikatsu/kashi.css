@@ -1,0 +1,110 @@
+body {
+  background-color: black;
+  /*margin: auto;*/
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: white; }
+
+.romajititle {
+  font-size: 20pt;
+  font-weight: bold;
+  display: block;
+  text-align: center; }
+
+.kanatitle {
+  font-size: 25pt;
+  font-weight: bold;
+  display: block;
+  text-align: center; }
+
+.transtitle {
+  font-size: 15pt;
+  display: block;
+  text-align: center; }
+
+.englishtitle {
+  font-size: 12pt;
+  display: block;
+  text-align: center; }
+
+.artist {
+  font-weight: bold;
+  font-style: italic;
+  display: block;
+  text-align: center; }
+
+td {
+  font-size: 10pt; }
+
+a {
+  color: #6CF; }
+
+a:visited {
+  color: #CCF; }
+
+a:active {
+  color: #F39; }
+
+pre {
+  font-family: Arial, Helvetica, sans-serif; }
+
+#header table {
+    border: 0;
+    width:100%;
+    padding-top:0;}
+
+#credits table {
+    width:400px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;}
+
+#artist td {
+  text-align: center;
+  font-size: 7.5pt; }
+
+#info td {
+  text-align: center;
+  font-size: 8pt; }
+
+.thead td {
+  font-weight: bold;
+  text-decoration: underline; }
+
+.other {
+  color: #808080; }
+
+.small-table {
+  width: 25%; /* 表格宽度设置为40% */
+  margin-top: 5px; /* 表格与上方内容的间距 */
+  margin-bottom: 20px; /* 表格与下方内容的间距 */
+  float: right; /* 右浮动 */
+}
+  
+.small-table td {
+  width: 25%; /* 每个单元格占表格宽度的1/3 */
+  text-align: center; /* 单元格内容居中 */
+  font-size: 1.2em; /* 增加字体大小 */
+}
+  
+.right-cell {
+  vertical-align: top; /* 右侧单元格顶部对齐 */
+}
+  
+.right-text {
+  white-space: pre-wrap; /* 保持空格和换行 */
+     font-family: inherit; /* 继承父元素的字体 */
+}
+  
+
+/*** iro ***/
+.ichigo {color: #f151f1;}/* 星宮 いちご */
+.aoi {color: #6180fa;}/* 霧矢 あおい */
+.ran {color: #894fed;}/* 紫吹 蘭 */
+.mizuki {color: #f55757;}/* 神崎美月 */
+.otome {color: #faeb61;} /* 有栖川 おとめ */
+.yurika {color: #16a139;}/* 藤堂ユリカ */
+.sakura {color: #bdfa61;}/* 北大路さくら */
+.kaede {color: #faad61;}/* 一ノ瀬かえで */
+.seira {color: #f43b4e;}/* 音城セイラ */
+.akari {color: #ff9bda;}/* 大空あかり */
