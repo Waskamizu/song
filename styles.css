@@ -8,13 +8,13 @@ body {
 }
 
 a {
-    color: #60b54a;
+    color: #aedbf7;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #44a02f;
+    color: #5afd7d;
 }
 
 .container {
@@ -23,7 +23,7 @@ a:hover {
     padding: 20px;
 }
 
-h1, h2 {
+h1, h2, h3 {
     color: #ffffff;
     text-align: center;
     margin-bottom: 20px;
@@ -38,17 +38,20 @@ h1, h2 {
 
 .table-container table {
     background-color: #2c2c2c;
-    border: 1px solid #444;
+    border: 1px solid #212121;
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 20px;
-    width: 300px;
+    width: 800px;
 }
 
 .table-container td {
-    padding: 10px;
-    text-align: center;
+    padding: 4px;
+    text-align: left;
     font-size: 14px;
+}
+table td {
+    padding-left: 20px; /* 调整此数值以控制文字偏移量 */
 }
 
 footer {
@@ -83,3 +86,41 @@ footer a:hover {
         width: 100%;
     }
 }
+
+        /* 添加跳转链接的样式 */
+        .nav-links {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .nav-links a {
+            margin: 0 15px;
+            color: #aedbf7;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: #5ffa86;
+        }
+
+        details details {
+            margin-left: 20px; /* 调整此数值以改变缩进程度 */
+        }
+        /* 表格样式 */
+        .summary-table {
+            display: inline-table;
+            border-collapse: collapse;
+            vertical-align: middle;
+        }
+
+        .summary-table td {
+            padding: 0 10px;
+            white-space: nowrap;
+        }
+ /* 统一的列宽 */
+ .summary-table td:nth-child(1) { width: 140px; } /* 公演名称 */
+ .summary-table td:nth-child(2) { width: 60px; }  /* Day */
+ .summary-table td:nth-child(3) { width: 200px; } /* 日期 */
+ .summary-table td:nth-child(4) { width: 300px; } /* 场地 */
+ .summary-table td:nth-child(5) { width: 200px; } /* 开场时间 */
