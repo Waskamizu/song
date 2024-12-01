@@ -94,6 +94,30 @@ td {
     white-space: pre-line; /* 保留文本中的换行符 */
 }
 
+/*** μ's ***/
+.honoka {color: #f38500;}
+.kke {color: #7aeeff;}
+.nico {color: #ff4f91;}
+.maki {color: #ff503e;}
+.kotori {color: #cebfbf;}
+.umi {color: #1769ff;}
+.rin {color: #fff832;}
+.nozomi {color: #c455f6;}
+.hanayo {color: #6ae673;}
+.miusu {color: #E4007F}
+
+/*** Aqours ***/
+.chika {color: #FF791B;}
+.riko {color: #FF7777;}
+.sww {color: #00D29E;}
+.dia {color: #F43232;}
+.you {color: #2AA4DB;}
+.yohane {color: #AEAEAE;}
+.zura {color: #CFBA0F;}
+.mari {color: #A530E0;}
+.rubi {color: #EE55B7;}
+.Aqours {color: #00A1E9}
+
  /*** Liella! ***/
  .kanon {color: #ff7f27;}
  .kuku {color: #6ffff5;}
@@ -110,3 +134,50 @@ td {
  .mao {color: #9A1B5A}
  .yuna {color: #FAC03B}
  .Sunny {color: #FF683D}
+
+  /*** Nijigasaki ***/
+.ayumu {color: #ED7D95}
+.kasumi {color: #E7D600}
+.shizuku {color: #01B7ED}
+.karin {color: #485EC6}
+.ai {color: #FF5800}
+.kanata {color: #A664A0}
+.setsuna {color: #D81C2F}
+.emma {color: #84C36E}
+.rina {color: #9CA5B9}
+.shioriko {color: #37B484}
+.mia {color: #A9A898}
+.lanzhu {color: #F69992}
+.Nijigaku {color: #F39800}
+
+  /*** Hasunosora ***/
+.kaho {color: #F8B500;}
+.sayaka {color: #5383C3;}
+.kozue {color: #68BE8D;}
+.tsuzuri {color: #BA2636;}
+.rurino {color: #E7609E;}
+.megumi {color: #C8C2C6;}
+.ginko {color: #A2D7DD;}
+.kosuzu {color: #FAD764;}
+.hime {color: #9D8DE2;}
+.Hasunosora {color: #BE1400}
+.CB {color: #DA645F}
+.DC {color: #163BCA}
+.MCP {color: #F3B171}
+
+  /*** Ongaku ***/
+.musical-rurika {color: #73B8E2}
+.musical-yuzuha {color: #EFEFEF}
+.musical-yukino {color: #F58220}
+.musical-hikaru {color: #3C6854}
+.musical-maya {color: #E48898}
+.musical-anzu {color: #D81F35}
+.musical-misuzu {color: #004C71}
+.musical-toa {color: #FF8C90}
+.musical-rena {color: #ABC900}
+.musical-sayaka {color: #E6D33B}
+.musical-madoka {color: #34582C}
+.musical-kyoka {color: #AC3040}
+.musical {color: #C40035}
+.musical1 {color: #507363}
+.musical2 {color: #6F1318}
